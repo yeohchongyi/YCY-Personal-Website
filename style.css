@@ -1,0 +1,10 @@
+img {
+  width: 200px;
+  length: 200px;
+  border-radius: 10%;
+}
+body {
+  text-align: center;
+  font-family: 'Calibri';
+  background: rgb(168, 237, 248);
+}
